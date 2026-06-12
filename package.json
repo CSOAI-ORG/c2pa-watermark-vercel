@@ -1,0 +1,13 @@
+{
+  "name": "c2pa-watermark-vercel",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo no-build",
+    "deploy": "vercel --prod"
+  },
+  "dependencies": {
+    "c2pa-watermark-mcp": "file:../"
+  }
+}

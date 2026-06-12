@@ -1,0 +1,2 @@
+# Serverless function config
+{ "runtime": "python3.11" }
